@@ -1,0 +1,22 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+.flex{
+    display: flex;
+}
+.justifycenter{
+    justify-content: center;
+
+}
+.items-center{
+    align-items: center;
+}
+.nav{
+    position: sticky;
+    border: 2px solid black ;
+    display: flex;
+    width: 100000px;
+    margin: auto;
+    gap: 20px;
+}

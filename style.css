@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.left{
+    width: 25vw;
+}
+.right{
+    width: 75vw;
+}
+.home ul li{
+    display: flex;
+    top: 0px;
+    padding: 0px;
+    width: 14px;
+    list-style: none;
+}
+.spacing{
+    margin: 3px;
+
+}
+.search{
+   gap: 20px;
+}
